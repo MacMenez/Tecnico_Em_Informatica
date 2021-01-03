@@ -1,10 +1,11 @@
- # Curso Técnico em Informática
+# Curso Técnico em Informática
 ### Escola Estadual Elias Issa
 
 Este repositório foi criado para publicação de projetos desenvolvidos durante o Curso Técnico em Informática.
 
 Divulgação de atividades e projetos desenvolvidos no curso Técnico em Informática.
 ## Disciplinas do Curso
+
 #### Módulo 1
 
 * Estatística Aplicada
@@ -13,6 +14,7 @@ Divulgação de atividades e projetos desenvolvidos no curso Técnico em Inform�
 * Introdução à Informatica
 * Lógica de Programação
 * Técnicas de Comunicação e Treinamento
+
 #### Módulo 2
 
 * Desenvolvimento Web
@@ -21,6 +23,7 @@ Divulgação de atividades e projetos desenvolvidos no curso Técnico em Inform�
 * Redes de Computadores
 * Segurança de Sistemas
 * Sistemas Operacionais
+
 #### Módulo 3
 
 * Análise de Projetos de Sistemas
@@ -29,6 +32,7 @@ Divulgação de atividades e projetos desenvolvidos no curso Técnico em Inform�
 * Linguagem Orientados à Objeto
 * Programação para Internet
 * Projeto Integrador(MouseBô)
+
 ### Projetos Desenvolvidos
 
 * MouseBô  
